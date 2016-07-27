@@ -4,7 +4,11 @@
     "repositoryName": "scrain.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "twitter": "@scrain"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
