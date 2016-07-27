@@ -6,7 +6,8 @@
   },
   "site": {},
   "socialnetwork": {
-    "twitter": "@scrain"
+    "twitter": "https://twitter.com/scrain",
+    "linkedin": "https://www.linkedin.com/in/shawn-crain"
   },
   "theme": {
     "name": "uno-zen"
